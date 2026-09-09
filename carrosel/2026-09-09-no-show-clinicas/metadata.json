@@ -1,0 +1,47 @@
+{
+  "project": "Zeppelin",
+  "niche": "marketing, automacao e desenvolvimento de software",
+  "target_market": "clinicas",
+  "offer": "sistema/funil de no-show para clinicas",
+  "objective": "chamar atencao de donos de clinicas e gerar interesse no sistema de no-show",
+  "topic": "funil de comparecimento para reduzir faltas evitaveis em consultas",
+  "target_audience": "donos e gestores de clinicas",
+  "slide_count": 7,
+  "output_format": "feed_post_4x5",
+  "export_size": "1080x1350",
+  "identity": {
+    "brand": "Zeppelin",
+    "colors": ["#08223D", "#B9925A", "#F5F4F2"],
+    "logo_rule": "sem logo na capa; logo sutil do slide 2 ao 7"
+  },
+  "typography": {
+    "headings": ["Bahnschrift"],
+    "body": ["Candara"],
+    "preferred_but_unavailable": ["Sora", "Manrope", "Inter Tight", "Inter", "Source Sans 3", "IBM Plex Sans"],
+    "avoid": ["Segoe UI", "Arial", "Calibri"]
+  },
+  "cta": "Comente NO-SHOW",
+  "visual_method": "built-in image generation",
+  "html_used_as_final_art": false,
+  "created_at": "2026-09-09",
+  "status": "final_slides_generated",
+  "assets": [
+    "base-images/slide-01-base.png",
+    "base-images/slide-02-base.png",
+    "base-images/slide-03-base.png",
+    "base-images/slide-04-base.png",
+    "base-images/slide-05-base.png",
+    "base-images/slide-06-base.png",
+    "base-images/slide-07-base.png",
+    "preview-grid-base.jpg",
+    "final-slides/slide-01.png",
+    "final-slides/slide-02.png",
+    "final-slides/slide-03.png",
+    "final-slides/slide-04.png",
+    "final-slides/slide-05.png",
+    "final-slides/slide-06.png",
+    "final-slides/slide-07.png",
+    "preview-grid-final.jpg",
+    "compose_carousel.ps1"
+  ]
+}

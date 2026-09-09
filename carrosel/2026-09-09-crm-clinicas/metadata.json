@@ -1,0 +1,36 @@
+{
+  "project": "Zeppelin",
+  "niche": "agencia de marketing, automacoes e software sob demanda",
+  "target_market": "clinicas",
+  "offer": "CRM/processo comercial para clinicas",
+  "objective": "gerar interessados comentando CRM",
+  "topic": "processo comercial para aproveitar leads pagos em clinicas",
+  "target_audience": "donos e gestores de clinicas",
+  "slide_count": 7,
+  "output_format": "feed_post_4x5",
+  "export_size": "1080x1350",
+  "identity": {
+    "brand": "Zeppelin",
+    "colors": ["#08223D", "#B9925A", "#F5F4F2"],
+    "logo_asset": "LogoPNG.png",
+    "logo_rule": "sem logo na capa; logo sutil do slide 2 ao 7"
+  },
+  "typography": {
+    "headings": ["Sora", "Manrope", "Inter Tight"],
+    "body": ["Inter", "Source Sans 3", "IBM Plex Sans"]
+  },
+  "cta": "Comente CRM",
+  "visual_method": "built-in image generation",
+  "html_used_as_final_art": false,
+  "created_at": "2026-09-09",
+  "assets": [
+    "images/slide-01.png",
+    "images/slide-02.png",
+    "images/slide-03.png",
+    "images/slide-04.png",
+    "images/slide-05.png",
+    "images/slide-06.png",
+    "images/slide-07.png",
+    "LogoPNG.png"
+  ]
+}

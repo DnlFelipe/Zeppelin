@@ -1,0 +1,38 @@
+{
+  "project": "Zeppelin",
+  "slug": "2026-09-09-lotar-agenda-clinicas",
+  "format": "4:5",
+  "size": {
+    "width": 1080,
+    "height": 1350
+  },
+  "theme": "Lotar agenda de clínicas",
+  "audience": "Clínicas",
+  "objective": "Vender marketing para clínicas de forma consultiva",
+  "source_transcript": "carrosel/Transcrições/09-09-26-lotar-agenda-marketing.md",
+  "brand": {
+    "colors": {
+      "navy": "#08223D",
+      "gold": "#B9925A",
+      "off_white": "#F5F4F2"
+    },
+    "logo": "C:/Users/dnlfl/Devs/Zeppelin/logos/LogoPNG.png",
+    "logo_policy": "Sem logo na capa; logo real aplicada nos slides 2 a 9."
+  },
+  "outputs": {
+    "preview_grid": "preview-grid.jpg",
+    "base_images_dir": "base-images",
+    "final_slides_dir": "final-slides",
+    "slides": [
+      "final-slides/slide-01.png",
+      "final-slides/slide-02.png",
+      "final-slides/slide-03.png",
+      "final-slides/slide-04.png",
+      "final-slides/slide-05.png",
+      "final-slides/slide-06.png",
+      "final-slides/slide-07.png",
+      "final-slides/slide-08.png",
+      "final-slides/slide-09.png"
+    ]
+  }
+}

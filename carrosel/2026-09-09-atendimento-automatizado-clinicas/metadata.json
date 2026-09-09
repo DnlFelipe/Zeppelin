@@ -1,0 +1,31 @@
+{
+  "brand": "Zeppelin",
+  "handle": "@zeppelin.ia",
+  "format": "4:5",
+  "theme": "atendimento automatizado para clinicas",
+  "slides": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png",
+    "slide-05.png",
+    "slide-06.png"
+  ],
+  "base_images": [
+    "slide-01-base.png",
+    "slide-02-base.png",
+    "slide-03-base.png",
+    "slide-04-base.png",
+    "slide-05-base.png",
+    "slide-06-base.png"
+  ],
+  "logo": "C:\\Users\\dnlfl\\Devs\\Zeppelin\\logos\\LogoPNG.png",
+  "prompts": [
+    "Slide 1: smartphone em primeiro plano no balcao de clinica brasileira moderna, notificacoes genericas sem texto legivel, recepcao desfocada, espaco negativo para titulo, paleta Zeppelin.",
+    "Slide 2: base grafica editorial azul marinho com linha temporal dourada, bolhas de conversa abstratas sem texto, visual premium e minimalista.",
+    "Slide 3: recepcao de clinica moderna em rotina cheia, atendente ao telefone, paciente no balcao, agenda e celular sem texto legivel, tom humano.",
+    "Slide 4: paciente olhando celular em casa no fim do dia, expressao de espera contida, area escura para texto, atmosfera editorial.",
+    "Slide 5: atendimento assistido por IA sem robo literal, bolhas e fluxos abstratos sobre clinica, sensacao de acolhimento e organizacao.",
+    "Slide 6: celular com confirmacoes genericas e calendario clinico, fundo azul premium, espaco para CTA, sem texto legivel na base."
+  ]
+}
